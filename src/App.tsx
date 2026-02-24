@@ -311,7 +311,7 @@ const Navbar = () => {
 
 const Hero = () => {
   return (
-    <section className="relative pt-24 pb-16 md:pt-48 md:pb-32 overflow-hidden bg-transparent">
+    <section className="relative pt-12 pb-16 md:pt-24 md:pb-32 overflow-hidden bg-transparent">
       <div className="max-w-7xl mx-auto px-6 lg:px-8 relative z-10">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-8 items-center">
           <div className="max-w-2xl relative">
